@@ -1,0 +1,16 @@
+E:\3rd Year Project\TestCalculator\obj\Debug\net5.0\TestCalculator.csprojAssemblyReference.cache
+E:\3rd Year Project\TestCalculator\obj\Debug\net5.0\TestCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\3rd Year Project\TestCalculator\obj\Debug\net5.0\TestCalculator.AssemblyInfoInputs.cache
+E:\3rd Year Project\TestCalculator\obj\Debug\net5.0\TestCalculator.AssemblyInfo.cs
+E:\3rd Year Project\TestCalculator\obj\Debug\net5.0\TestCalculator.csproj.CoreCompileInputs.cache
+E:\3rd Year Project\TestCalculator\bin\Debug\net5.0\TestCalculator.exe
+E:\3rd Year Project\TestCalculator\bin\Debug\net5.0\TestCalculator.deps.json
+E:\3rd Year Project\TestCalculator\bin\Debug\net5.0\TestCalculator.runtimeconfig.json
+E:\3rd Year Project\TestCalculator\bin\Debug\net5.0\TestCalculator.runtimeconfig.dev.json
+E:\3rd Year Project\TestCalculator\bin\Debug\net5.0\TestCalculator.dll
+E:\3rd Year Project\TestCalculator\bin\Debug\net5.0\ref\TestCalculator.dll
+E:\3rd Year Project\TestCalculator\bin\Debug\net5.0\TestCalculator.pdb
+E:\3rd Year Project\TestCalculator\obj\Debug\net5.0\TestCalculator.dll
+E:\3rd Year Project\TestCalculator\obj\Debug\net5.0\ref\TestCalculator.dll
+E:\3rd Year Project\TestCalculator\obj\Debug\net5.0\TestCalculator.pdb
+E:\3rd Year Project\TestCalculator\obj\Debug\net5.0\TestCalculator.genruntimeconfig.cache
