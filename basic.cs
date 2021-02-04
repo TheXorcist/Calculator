@@ -16,8 +16,7 @@ namespace TestCalculator
             double num2 = Convert.ToDouble(Console.ReadLine());
 
             double result;
-            
-            
+                        
             if(op == "+")
             {
                 result = num1+num2;
