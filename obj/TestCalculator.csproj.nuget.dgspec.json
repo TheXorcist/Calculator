@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\3rd Year Project\\TestCalculator\\TestCalculator.csproj": {}
+    "/home/subhamk/My_Files/Coding/Personal/Temp/C#/Calculator/TestCalculator.csproj": {}
   },
   "projects": {
-    "E:\\3rd Year Project\\TestCalculator\\TestCalculator.csproj": {
+    "/home/subhamk/My_Files/Coding/Personal/Temp/C#/Calculator/TestCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\3rd Year Project\\TestCalculator\\TestCalculator.csproj",
+        "projectUniqueName": "/home/subhamk/My_Files/Coding/Personal/Temp/C#/Calculator/TestCalculator.csproj",
         "projectName": "TestCalculator",
-        "projectPath": "E:\\3rd Year Project\\TestCalculator\\TestCalculator.csproj",
-        "packagesPath": "C:\\Users\\Debayan\\.nuget\\packages\\",
-        "outputPath": "E:\\3rd Year Project\\TestCalculator\\obj\\",
+        "projectPath": "/home/subhamk/My_Files/Coding/Personal/Temp/C#/Calculator/TestCalculator.csproj",
+        "packagesPath": "/home/subhamk/.nuget/packages/",
+        "outputPath": "/home/subhamk/My_Files/Coding/Personal/Temp/C#/Calculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Debayan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/subhamk/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.23, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -52,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }
