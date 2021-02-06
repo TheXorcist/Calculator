@@ -38,6 +38,7 @@ namespace TestCalculator
 
             } else{
                 Console.WriteLine("Wrong choice");
+                Console.WriteLine("Hello Everyone");
                 
             }
 
